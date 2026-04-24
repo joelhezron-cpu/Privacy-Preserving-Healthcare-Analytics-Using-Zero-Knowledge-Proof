@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-04-09  13:10:07",
+  "source_dir": "C:\\Users\\Lenovo\\Downloads\\SKIN final\\SKIN final",
+  "demo_mode": false,
+  "patients": 2,
+  "records": 3,
+  "charts": [
+    "Chart1_Registration_Overview.jpg",
+    "Chart2_Vital_Distributions.jpg",
+    "Chart3_Patient_Trends.jpg",
+    "Chart4_BloodPressure.jpg",
+    "Chart5_Risk_Assessment.jpg",
+    "Chart6_Radar_Comparison.jpg",
+    "Chart7_Session_Statistics.jpg"
+  ]
+}
